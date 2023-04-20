@@ -3,6 +3,8 @@
 
 Use this [custom Metaflow card](https://docs.metaflow.org/metaflow/visualizing-results/easy-custom-reports-with-card-components) to observe GPU utilization and memory consumption on any Metaflow task.
 
+![](gpu_profile.png)
+
 ## Requirements
 
 The uses the `nvidia-smi` command-line tool to retrieve the metrics. Make sure the tool is installed on the image
